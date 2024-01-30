@@ -5,7 +5,7 @@
 
 ## Group Project 
 
-## Individual Project 
+## Individual Projects
 
 ### Space Game 
 OOP graphics game spotlighting objects for user interaction. 
