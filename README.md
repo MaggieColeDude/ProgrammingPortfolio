@@ -21,7 +21,8 @@ This is an example of a enemy in Space Game that being the aliens named "Gronks"
 A calculator with working mathmatics and graphics 
 
 ![Calculator](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Clac.png?raw=true)
-[Source Code]([Calculator.zip](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Calculator.zip))
+
+[Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Calculator.zip)
 
 ### Grading Scale
 A graphic of the PBL grading scale 
