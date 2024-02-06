@@ -19,3 +19,4 @@ OOP graphics game spotlighting objects for user interaction.
 ![Calculator](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Clac.png?raw=true)
 
 ### Grading Scale
+![Grade](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Grades.png?raw=true)
