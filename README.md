@@ -1,5 +1,6 @@
-# Maggie Cole | Proggraming Portfoloi 
-
+# Maggie Cole | Proggraming Portfolo
+# Contact me at my school eamil: 9623389@graniteschools.org 
+# Contacr me ar my personal email: maggiesreallycoolemail@gmail.org
 ## Certification
 * Nthing :(
 
