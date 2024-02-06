@@ -16,7 +16,9 @@ OOP graphics game spotlighting objects for user interaction.
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/raw/main/src/SpaceGame%202.zip)
 
 ### Calculator 
+A calculator with working mathmatics and graphics 
 ![Calculator](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Clac.png?raw=true)
 
 ### Grading Scale
+A graphic of the PBL grading scale 
 ![Grade](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Grades.png?raw=true)
