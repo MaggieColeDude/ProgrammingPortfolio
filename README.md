@@ -1,18 +1,19 @@
-# Maggie Cole | Proggraming Portfolo
+Maggie Cole | Programming 1 Portfolio
 # Contact me at my school eamil: 9623389@graniteschools.org 
-# Contacr me ar my personal email: maggiesreallycoolemail@gmail.org
-## Certification
-* Nthing :(
+# Contact me at my personal email: maggiesreallycoolemail@gmail.org
+## Certifications
+* None 
 
 ## Group Project 
+* None
 
-## Individual Projects
-
+## Individual Projects : 
 ### Space Game 
 OOP graphics game spotlighting objects for user interaction. 
 ![Space Game Menu](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Start.png?raw=true)
 ![Space Game Gameplay](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/GamePlay.png?raw=true)
 ![Space Game Alien Enemy](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/G3.png?raw=true)
+This is an example of a enemy in Space Game that being the aliens named "Gronks". 
 ![Space Game Gameover](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/End.png?raw=true)
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/raw/main/src/SpaceGame%202.zip)
 
