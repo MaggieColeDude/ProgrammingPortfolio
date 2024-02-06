@@ -8,7 +8,7 @@ Maggie Cole | Programming 1 Portfolio
 * None
 
 ## Individual Projects : 
-### Space Game 
+### 1) Space Game 
 OOP graphics game spotlighting objects for user interaction. 
 ![Space Game Menu](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Start.png?raw=true)
 ![Space Game Gameplay](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/GamePlay.png?raw=true)
@@ -17,14 +17,19 @@ This is an example of a enemy in Space Game that being the aliens named "Gronks"
 ![Space Game Gameover](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/End.png?raw=true)
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/raw/main/src/SpaceGame%202.zip)
 
-### Calculator 
-A calculator with working mathmatics and graphics 
+### 2) Calculator 
+A calculator with working mathmatics and graphics! 
 
 ![Calculator](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Clac.png?raw=true)
 
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Calculator.zip)
 
-### Grading Scale
-A graphic of the PBL grading scale 
+### 3) Grading Scale
+A graphic of the PBL grading scale that you can move with your mouse. 
 ![Grade](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Grades.png?raw=true)
+
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Grades.zip)
+
+### 4) Zoog! 
+![zoog]()
+[Source Code]()
