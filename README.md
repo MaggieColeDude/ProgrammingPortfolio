@@ -31,6 +31,7 @@ A graphic of the PBL grading scale that you can move with your mouse.
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Grades.zip)
 
 ### 4) Zoog! 
-![zoog]()
+A graphic of Zoog which can be moved with the users mouse!
+![zoog](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Zoog.png)
 
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/src/Zoog.zip)
