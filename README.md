@@ -16,5 +16,5 @@ OOP graphics game spotlighting objects for user interaction.
 [Source Code](https://github.com/MaggieColeDude/ProgrammingPortfolio/raw/main/src/SpaceGame%202.zip)
 
 ### Calculator 
-
+![Calculator](https://github.com/MaggieColeDude/ProgrammingPortfolio/blob/main/images/Clac.png?raw=true)
 ### Grading Scale
